@@ -1,0 +1,17 @@
+{
+    "boothlocation":{
+        "wina1": "Lusaka CDP",
+        "wina2":"Libala",
+        "wina3":"kabwata",
+        "wina4":"Mandevu",
+        "wina5":"Woodlands",
+        "Wina6":"Matero East"
+    },
+    "sericelimits":{
+        "Airtel Money":350000,
+        "MTN Money": 160000,
+        "Zamtel Money":70000,
+        "Zanaco":80000,
+        "FNB":80000
+    }
+}
